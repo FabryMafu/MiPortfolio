@@ -5,7 +5,8 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "build-gh": "pacel build --public-url https://FabryMafu.github.io/MiPortfolio"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "http://FabryMafu.github.io/MiPortfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
